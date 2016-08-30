@@ -21,6 +21,10 @@ Slides
 
 Panels
 	Contains (sub)panels and controls
+	Can be nested as much as required
+	Integral for doing complex layouts
+	Can be things like buttons or menu bars
 
 Controls
-	The end of the tree
+	The end of the component tree, no sub components
+	Can be things like text or sprites
